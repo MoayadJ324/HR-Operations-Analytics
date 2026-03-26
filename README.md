@@ -14,3 +14,22 @@ This repository is structured as follows:
 	- https://github.com/MoayadJ324/HR-Operations-Analytics/blob/main/Employee_data.csv
 	- https://github.com/MoayadJ324/HR-Operations-Analytics/blob/main/HR_Analytics_Data.csv
 	- https://github.com/MoayadJ324/HR-Operations-Analytics/blob/main/Retrenched_employees.csv
+
+ 
+ - https://github.com/MoayadJ324/HR-Operations-Analytics/raw/refs/heads/main/Moayad_Jelassi_HR_analytics_dashboard.pbix
+    - This power bi file contains the dashboard comprising of various visualizations performed on the raw datasets.
+	- Feel free to explore the HR_analytics_dashboard.pbix file to view the specific visualizations used in this analysis.
+
+
+## Dashboard Components
+The HR analytics dashboard includes the following components:
+-	Overview: Provides a high-level summary of key HR metrics, including total employees, turnover rate, employees due for promotion, etc.
+-	Employee Distribution: Visualizes the distribution of employees across different branch, age group, job roles and education levels.
+-	Due Promotion Analysis: Analyses potential employees who are due for promotion, to be retrenched & severance beneficiaries providing valuable insights.
+-	Employee Feedback Analysis: Examines employee performance levels, job satisfaction levels, work-life balance etc. based on their shared feedbacks, also helps to identify and highlight crucial aspects that needs to be dealt with to maximise employee retention.
+
+
+## License
+-	The dataset used in this project is obtained from Kaggle.
+
+
