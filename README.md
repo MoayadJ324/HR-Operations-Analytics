@@ -28,7 +28,7 @@ The HR analytics dashboard includes the following components:
 
 
 ## SQL Queries
-- 
+- https://github.com/MoayadJ324/HR-Operations-Analytics/blob/main/hr_analytics_queries.sql
 
 ## License
 -	The dataset used in this project is obtained from Kaggle.
