@@ -20,7 +20,7 @@ This repository is structured as follows:
 -	Readme file: https://github.com/MoayadJ324/HR-Operations-Analytics/edit/main/README.md
 
 
--	Raw dataset files:
+-	Dataset files:
     - https://github.com/MoayadJ324/HR-Operations-Analytics/raw/refs/heads/main/Due_for_promotion&retrenchment.xlsx.xlsx
 	- https://github.com/MoayadJ324/HR-Operations-Analytics/blob/main/Employee_data.csv
 	- https://github.com/MoayadJ324/HR-Operations-Analytics/blob/main/HR_Analytics_Data.csv
