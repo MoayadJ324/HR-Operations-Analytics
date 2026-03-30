@@ -1,6 +1,5 @@
 -- ============================================================
 --  HR ANALYTICS - SQL PROJECT
---  Author: [Your Name]
 --  Tool:   Microsoft SQL Server Management Studio (SSMS)
 --  Data:   Imported from CSV / Excel files
 -- ============================================================
